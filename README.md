@@ -1,5 +1,5 @@
 <img align="center" width="1000" height="400" src="https://jayamwebsolutions.com/img/website.gif">
-<h1 align="center">Hi 👋, I'm 𝗦𝗮𝗺𝗶𝘁 𝗠𝗮𝗵𝗮𝗱𝗶</h1>
+<h1 align="center">Hi, I'm 𝗦𝗮𝗺𝗶𝘁 𝗠𝗮𝗵𝗮𝗱𝗶</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
