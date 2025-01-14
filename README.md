@@ -5,9 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **react,express,mongoDB,node**
 
 - 📫 How to reach me **samithossainmahadi@gmail.com**
 
